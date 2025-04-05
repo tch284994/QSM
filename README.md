@@ -148,12 +148,12 @@ Our codebase is built based on [SSP's](https://github.com/fanq15/SSP) and [DRANe
 
 [1] M. Everingham, L. Van Gool, C.K.I. Williams, J. Winn, A. Zisserman, The Pascal Visual Object Classes (VOC) Challenge, International Journal of Computer Vision, 2010, 88(2): 303-338.
 
-[2] I. Demir, K. Koperski, D. Lindenbaum, G. Pang, J. Huang, S. Basu, F. Hughes, D.  Tuia, R. Raskar, DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images, in: CVPR, 2018, pp. 172-181.
+[2] I. Demir, K. Koperski, D. Lindenbaum, G. Pang, J. Huang, S. Basu, F. Hughes, D.  Tuia, R. Raskar, DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images, In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 172-181.
 
 [3] N.C.F. Codella, V.M. Rotemberg, P. Tschandl, M.E. Celebi, S.W. Dusza, D.A. Gutman, B. Helba, A. Kalloo, K. Liopyris, M.A. Marchetti, H. Kittler, A.C. Halpern, Skin lesion analysis toward melanoma detection 2018: A challenge hosted by the International Skin Imaging Collaboration (ISIC), 2019, arXiv preprint arXiv: 1902.03368.
 
 [4] S. Candemir, S. Jaeger, K. Palaniappan, J.P. Musco, R.K. Singh, Z.Y. Xue, A. Karargyris,  S. Antani, G. Thoma, C.J. McDonald, Lung segmentation in chest radiographs using anatomical atlases with nonrigid registration, IEEE Transactions on Medical Imaging, 2014, 33(2): 577-590.
 
-[5] X. Li, T. Wei, Y.P. Chen, Y.W. Tai, C.K. Tang, FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation, in: CVPR, 2020, pp. 2869-2878.
+[5] X. Li, T. Wei, Y.P. Chen, Y.W. Tai, C.K. Tang, FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation, In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020, pp. 2869-2878.
 
-[6] J. Su, Q. Fan, G. Lu, F. Chen, W. Pei, Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation, in: CVPR, 2024, pp. 24036-24045.
+[6] J. Su, Q. Fan, G. Lu, F. Chen, W. Pei, Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation, In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 24036-24045.
