@@ -10,6 +10,13 @@ The goal of the Cross-Domain Few-shot Semantic Segmentation (CD-FSS) task is to 
     <img src="assets/Framework.png">
 </p>
 
+## Environment
+
+- Python 3.8
+- PyTorch 1.12
+- torchvision 0.13
+- cuda 11.3
+- tensorboard 2.2
 
 ## Datasets preparation
 
